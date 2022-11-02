@@ -5,4 +5,4 @@ Exercicios de plataformas de código, com a linguagem Python, afim de colocar as
 
 Exercicios resolvidos:
 
-- [1278](./beecrowd_1278.py)
+- [1278](src/beecrowd_1278.py)
