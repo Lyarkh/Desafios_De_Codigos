@@ -1,4 +1,4 @@
 # Atividade beecrowd
 ---
 
-Repositório que terá diversos exercicios do beecrowd.
+Exercicios de plataformas de código, com a linguagem Python, afim de colocar as estruturas e teoria em prática.
